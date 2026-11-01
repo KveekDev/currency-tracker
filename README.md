@@ -30,8 +30,8 @@ The app makes HTTP requests to the [NBU API](https://bank.gov.ua/NBU_Exchange/ex
      python interface.py
 
 ## Project Structure
-parser.py — handles API requests, JSON parsing, and graph plotting.
-interface.py — handles the GUI and user interaction.
+- parser.py — handles API requests, JSON parsing, and graph plotting.
+- interface.py — handles the GUI and user interaction.
 
 ## Note on AI usage
 The code in this project was written with the help of AI as part of my learning journey. I understand how the code works, managed the architecture, and can explain the logic behind the API requests and plotting.
